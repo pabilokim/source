@@ -1,1 +1,1 @@
-README.tx
+KEJ 쇼핑몰의 회원
